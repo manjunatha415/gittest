@@ -4,3 +4,6 @@ php
 java
 elb
 auto scaling
+s3
+route53
+ec2
